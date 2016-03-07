@@ -1,0 +1,70 @@
+#Name {
+   margin-right:10px;
+    float:left;
+
+}
+
+#Price {
+    margin-right:100px;
+    float:left;
+
+}
+
+#Change {
+     margin-right:150px;
+    float:left;
+
+}
+
+
+.ClassCName {
+   -webkit-column-width: 220px;
+   background-color: black;
+   color: #33ccff;
+   font-family: "Lucida-Console", Monaco, monospace;
+   font-size: 16px;
+}
+
+.ClassCPrice {
+   -webkit-column-width: 220px;
+   background-color: black;
+   font-family: "Lucida-Console", Monaco, monospace;
+   font-size: 16px;
+}
+
+.ClassCChange {
+	-webkit-column-width: 220px;
+   background-color: black;
+   font-family: "Lucida-Console", Monaco, monospace;
+   font-size: 16px;
+}
+
+.HeadClassCName {
+   -webkit-column-width: 220px;
+   background-color: black;
+   font-family: "Lucida-Console", Monaco, monospace;
+   font-size: 20px;
+}
+
+.HeadClassCPrice {
+   -webkit-column-width: 220px;
+   background-color: black;
+   font-family: "Lucida-Console", Monaco, monospace;
+   font-size: 20px;
+}
+
+.HeadClassCChange {
+	-webkit-column-width: 220px;
+   background-color: black;
+   font-family: "Lucida-Console", Monaco, monospace;
+   font-size: 20px;
+.Row1 {
+
+}
+
+table.sortable thead {
+    background-color:#eee;
+    color:#666666;
+    font-weight: bold;
+    cursor: default;
+}
